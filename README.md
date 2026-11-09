@@ -9,7 +9,7 @@ I work on AI product growth, agent workflows, and practical tools. I use GitHub 
 - **Product labs** — research, ongoing observations, and hands-on tests of AI products and developer tools.
 - **Small utilities** — tools built to solve practical problems in my own workflow.
 
-Explore [Global Growth OS](https://github.com/ChenJinCloud/global-growth-os), [AI Product Content Distribution Skills](https://github.com/ChenJinCloud/ai-product-content-distribution-skills), [Model Launch Lab](https://github.com/ChenJinCloud/model-launch-lab), [Ego Lite Lab](https://github.com/ChenJinCloud/ego-lite-lab), and [CoreSpeed Lab](https://github.com/ChenJinCloud/corespeed-lab).
+Explore [Global Growth OS](https://github.com/ChenJinCloud/global-growth-os), [AI Product Content Distribution Skills](https://github.com/ChenJinCloud/ai-product-content-distribution-skills), and [Product Labs](https://github.com/ChenJinCloud/product-labs) (CoreSpeed, Ego Lite and model-launch research now live here).
 
 ## Get in touch
 
