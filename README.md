@@ -1,13 +1,8 @@
 # Hi, I'm Jin Chen 👋
 
-I work on AI product growth, agent workflows, and practical tools. I use GitHub to share what I learn, build, and test in public.
+I'm an independent growth advisor and builder. My work is turning the parts of AI product growth that usually stay vague — positioning, launch, content, and agent workflows — into systems someone can actually run.
 
-## What you'll find here
-
-- **Growth research and launch playbooks** — frameworks, case studies, and experiments for bringing AI products to market.
-- **Agent skills and workflows** — reusable tools for content discovery, adaptation, distribution, and everyday work.
-- **Product labs** — research, ongoing observations, and hands-on tests of AI products and developer tools.
-- **Small utilities** — tools built to solve practical problems in my own workflow.
+I write in public because the working version is usually more useful than the polished one: the templates I use myself, the research written before the conclusion is obvious, and the notes on what I got wrong.
 
 ### Where to start
 
@@ -15,10 +10,16 @@ Each repository plays one role. Pick the one that matches what you want.
 
 | What it is | Repository |
 | --- | --- |
+| **Playbooks** — templates and checklists you can use today | [global-growth-os](https://github.com/ChenJinCloud/global-growth-os) |
 | **My skill library** — skills I run myself, not a product to adopt | [awesome-tools](https://github.com/ChenJinCloud/awesome-tools) |
 | **A product** — configurable for any AI product, MIT licensed | [ai-product-content-distribution-skills](https://github.com/ChenJinCloud/ai-product-content-distribution-skills) |
-| **My growth methodology** — versioned system, public boundary stated | [global-growth-os](https://github.com/ChenJinCloud/global-growth-os) |
-| **My research notes** — observations and tests, no conclusions yet | [product-labs](https://github.com/ChenJinCloud/product-labs) |
+| **Research notes** — observations and tests, before conclusions | [product-labs](https://github.com/ChenJinCloud/product-labs) |
+| **Small utilities** — tools I built for my own workflow | [desktop-sticky-card](https://github.com/ChenJinCloud/desktop-sticky-card) · [md-reader](https://github.com/ChenJinCloud/md-reader) · [video-resize-1080p](https://github.com/ChenJinCloud/video-resize-1080p) |
+
+### What I'm doing now
+
+- Building playbooks meant to be copied, not just read.
+- Writing down what worked, and attaching the evidence.
 
 ## Get in touch
 
