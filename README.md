@@ -1,4 +1,4 @@
-# Hi, I'm Jinchen 👋
+# Hi, I'm Jin Chen 👋
 
 I work on AI product growth, agent workflows, and practical tools. I use GitHub to share what I learn, build, and test in public.
 
@@ -24,6 +24,6 @@ Each repository plays one role. Pick the one that matches what you want.
 
 - Website: [chenjin.io](https://chenjin.io)
 - X: [@jinchen_ai](https://x.com/jinchen_ai)
-- LinkedIn: [Jinchen](https://www.linkedin.com/in/jin-chen-b414582aa/)
+- LinkedIn: [Jin Chen](https://www.linkedin.com/in/jin-chen-b414582aa/)
 - Email: [jiaqichen6252@gmail.com](mailto:jiaqichen6252@gmail.com)
 - WeChat: `chenjin_io`
